@@ -1,7 +1,6 @@
 **Backend Assignment: REST API Server**
 
 
-Project Description
 This project aims to create a REST API server with CRUD (Create, Read, Update, Delete) based routes using Python and Flask framework. The API allows users to interact with a MongoDB database to manage a collection of books.
 
 **Installation Instructions**
