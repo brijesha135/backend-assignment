@@ -9,6 +9,7 @@ Install Python if not already installed.
 Install the required dependencies using pip:
 pip install flask pymongo
 
+
 **Usage**
 Run the Flask application:
 python app.py
@@ -18,6 +19,8 @@ GET /books/<name>: Retrieve a specific book by its name.
 POST /books: Add a new book to the database.
 PUT /books/<name>: Update an existing book.
 DELETE /books/<name>: Delete a book from the database.
+
+
 **API Documentation**
 GET /books: Retrieve all books stored in the database.
 GET /books/<name>: Retrieve details of a specific book by its name.
